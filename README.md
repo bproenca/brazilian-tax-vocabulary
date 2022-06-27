@@ -1,7 +1,7 @@
 # Brazilian Tax Vocabulary
 
-Words in english, explanation in portuguese.   
-Termos em inglês, explicações em português.
+Words in english translated to portuguese.   
+Termos em inglês traduzidos para o português.
 
 ## Table of Contents  
 
@@ -34,6 +34,11 @@ Termos em inglês, explicações em português.
 
 #### A
 
+**Abatement:** Abatimento  
+**Accounting period:** Período contábil  
+**Amortization**: Amortização  
+**Arbitrage:** Arbitragem  
+**Audit:**: Auditoria
 
 #### B
 
